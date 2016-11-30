@@ -4,5 +4,5 @@ require('jquery');
 require("bootstrap-webpack");
 
 require('./scss/app.scss');
-require('./js/app.es6');
+require('./js/app.jsx');
 require('./index.html');
